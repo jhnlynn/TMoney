@@ -1,0 +1,15 @@
+venv/
+
+.idea/
+
+exp.py
+
+.DS_Store
+
+database.ini
+
+load.sql
+
+schema.sql
+
+__pycache__/
